@@ -1,13 +1,13 @@
 {
-  "name": "JMTHON",
-  "description": " Arabic jmthonc Powerful & Safe based on Telethon",
-  "logo": "https://telegra.ph/file/d90dfa4c680c0d0d2e652.jpg",
+  "name": "Afrotoo",
+  "description": " Arabic afrotoo Powerful & Safe based on Telethon",
+  "logo": "https://telegra.ph/file/1105de1e03f0ba27ba095.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/thejmthon/Keploy",
+  "repository": "https://github.com/afrotoo66/Keploy",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
