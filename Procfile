@@ -1,1 +1,1 @@
-worker: bash imsad
+worker: bash start
